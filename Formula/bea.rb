@@ -2,7 +2,7 @@
 class Bea < Formula
   desc "Beancount.io CLI: check, query, report on, and edit beancount ledgers"
   homepage "https://beancount.io"
-  url "https://files.pythonhosted.org/packages/source/b/beancount-io/beancount_io-0.1.0.tar.gz"
+  url "https://files.pythonhosted.org/packages/d2/dd/72fded0400ff4757779ac6d2213323b70ba23d2b0c26937e5a93cdae54e9/beancount_io-0.1.0.tar.gz"
   version "0.1.0"
   sha256 "5ca75fd0a3effa7f21b04694dd50f7589417771b09e3581758e5dbca359c062c"
   license "MIT"
